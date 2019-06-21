@@ -4,7 +4,6 @@ import Container from './Container';
 import Footer from './Footer';
 import Banner from './Banner';
 import images from '../images';
-import { stat } from 'fs';
 
 class TheMemoryGame extends Component {
     state = {
